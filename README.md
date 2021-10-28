@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Axiic
-- 👀 I’m interested in Fullstack Developing
+- 👋 I do develop in C#, JavaScript, Python, MySQL and LUA
+- 👀 I’m interested in Fullstack Developing 
 - 🌱 I’m currently learning C++ and Python 
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me on Discord Axiic#0001
